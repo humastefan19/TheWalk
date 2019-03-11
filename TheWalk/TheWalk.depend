@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1525771222 source:c:\facultate anul 1\semestrul ii\poo\thewalk\main.cpp
+	<iostream>
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Robot.h"
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Item.h"
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Harta.h"
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\GestionareJoc.h"
+
+1525010891 c:\facultate anul 1\semestrul ii\poo\thewalk\include\robot.h
+	"Item.h"
+	"Trap.h"
+	"Harta.h"
+	<iostream>
+	<cmath>
+
+1525010891 c:\facultate anul 1\semestrul ii\poo\thewalk\include\item.h
+	<iostream>
+
+1525010891 c:\facultate anul 1\semestrul ii\poo\thewalk\include\trap.h
+	"Robot.h"
+
+1525027839 c:\facultate anul 1\semestrul ii\poo\thewalk\include\harta.h
+	"Robot.h"
+	"Item.h"
+	"Trap.h"
+	<vector>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\fastrobotitem.h
+	<Item.h>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\slowrobotitem.h
+	<Item.h>
+
+1524471910 c:\facultate anul 1\semestrul ii\poo\thewalk\include\speedyrobotitem.h
+	<Item.h>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\slowrobottrap.h
+	<Trap.h>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\speedyrobottrap.h
+	<Trap.h>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\fastrobottrap.h
+	<Trap.h>
+
+1524471849 c:\facultate anul 1\semestrul ii\poo\thewalk\include\fastrobot.h
+	<Robot.h>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\slowrobot.h
+	<Robot.h>
+
+1524471850 c:\facultate anul 1\semestrul ii\poo\thewalk\include\speedyrobot.h
+	<Robot.h>
+
+1525018431 c:\facultate anul 1\semestrul ii\poo\thewalk\include\gestionarejoc.h
+	"Robot.h"
+	"Item.h"
+	"Trap.h"
+	"Harta.h"
+	<iostream>
+
+1524471850 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\fastrobot.cpp
+	"FastRobot.h"
+
+1524471849 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\fastrobotitem.cpp
+	"FastRobotItem.h"
+
+1524471850 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\fastrobottrap.cpp
+	"FastRobotTrap.h"
+
+1525771230 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\gestionarejoc.cpp
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\GestionareJoc.h"
+	<cstdlib>
+
+1525771236 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\harta.cpp
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Harta.h"
+	<random>
+	<time.h>
+	<cstring>
+	<cmath>
+
+1525771245 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\item.cpp
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Item.h"
+	<random>
+
+1525771251 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\robot.cpp
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Robot.h"
+	<cstdlib>
+	<random>
+
+1524471849 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\slowrobot.cpp
+	"SlowRobot.h"
+
+1524471849 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\slowrobotitem.cpp
+	"SlowRobotItem.h"
+
+1524471850 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\slowrobottrap.cpp
+	"SlowRobotTrap.h"
+
+1524471849 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\speedyrobot.cpp
+	"SpeedyRobot.h"
+
+1524471849 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\speedyrobotitem.cpp
+	"SpeedyRobotItem.h"
+
+1524471850 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\speedyrobottrap.cpp
+	"SpeedyRobotTrap.h"
+
+1525771256 source:c:\facultate anul 1\semestrul ii\poo\thewalk\src\trap.cpp
+	"C:\Facultate Anul 1\Semestrul II\POO\TheWalk\include\Trap.h"
+	<random>
+
